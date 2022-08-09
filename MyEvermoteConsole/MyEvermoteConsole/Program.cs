@@ -10,7 +10,7 @@ namespace MyEvermoteConsole
     {
         static void Main(string[] args)
         {
-            //commit
+            //write code here ...
         }
     }
 }
